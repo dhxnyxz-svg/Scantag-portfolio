@@ -1,0 +1,63 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My ScanTag Portfolio</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #eef4ff;
+      text-align: center;
+      padding: 20px;
+    }
+
+    .card {
+      background: white;
+      padding: 25px;
+      border-radius: 18px;
+      max-width: 350px;
+      margin: auto;
+      box-shadow: 0 4px 12px #cccccc;
+    }
+
+    h1 { color: #2455a4; }
+
+    .tag {
+      background: #e0ebff;
+      padding: 8px;
+      border-radius: 8px;
+    }
+
+    a {
+      display: inline-block;
+      background: #2455a4;
+      color: white;
+      padding: 12px 20px;
+      border-radius: 8px;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>My ScanTag</h1>
+    <p class="tag">Student Portfolio</p>
+
+    <h3>About My Project</h3>
+    <p>Welcome! This is my digital portfolio.</p>
+
+    <h3>My Skills</h3>
+    <p>HTML | C Programming | Problem Solving</p>
+
+    <h3>My Project</h3>
+    <p>ScanTag - A QR Code Portfolio Product</p>
+
+    <h3>My Goal</h3>
+    <p>To learn coding and develop useful products.</p>
+
+    <a href="https://www.w3schools.com/"
+       target="_blank">Learn Coding</a>
+  </div>
+</body>
+</html>
